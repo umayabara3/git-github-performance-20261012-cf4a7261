@@ -1,1 +1,1 @@
-Synthetic 変更.txt: version 1
+Synthetic 変更.txt: version 2

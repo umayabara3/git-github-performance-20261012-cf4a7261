@@ -1,1 +1,1 @@
-Synthetic 日本語 (空白あり).txt: version 1
+Synthetic 日本語 (空白あり).txt: version 2
