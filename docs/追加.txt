@@ -1,1 +1,0 @@
-Added synthetic fixture in V2
